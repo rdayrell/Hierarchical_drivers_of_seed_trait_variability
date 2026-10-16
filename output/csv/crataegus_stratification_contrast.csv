@@ -1,0 +1,17 @@
+"contrast","group","odds.ratio","SE","z.ratio","p.value"
+"strat1 / strat2","population",1.14,0.207,0.722,0.47
+"strat1 / strat2","tree 1",0.18,0.293,-1.056,0.291
+"strat1 / strat2","tree 2",1,0.943,0,1
+"strat1 / strat2","tree 3",0.398,0.331,-1.109,0.267
+"strat1 / strat2","tree 4",0.326,0.543,-0.673,0.501
+"strat1 / strat2","tree 5",0.097,0.08,-2.851,0.004
+"strat1 / strat2","tree 6",2.158,1.619,1.026,0.305
+"strat1 / strat2","tree 7",0.601,0.441,-0.694,0.487
+"strat1 / strat2","tree 8",20.368,19.675,3.12,0.002
+"strat1 / strat2","tree 9",1,2.057,0,1
+"strat1 / strat2","tree 10",2.941,2.339,1.356,0.175
+"strat1 / strat2","tree 11",81,131.706,2.703,0.007
+"strat1 / strat2","tree 12",0.051,0.048,-3.165,0.002
+"strat1 / strat2","tree 13",0.722,0.42,-0.559,0.576
+"strat1 / strat2","tree 14",4.2,2.201,2.738,0.006
+"strat1 / strat2","tree 15",1,0.634,0,1

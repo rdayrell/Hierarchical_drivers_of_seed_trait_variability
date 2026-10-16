@@ -1,0 +1,25 @@
+# R history, workspace and local environment
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rproj.user/
+
+# Local data, documentation, figures, plot objects and archive
+/data/*
+!/data/bioclim_names.csv
+/docs/
+imgs/
+rds/
+/archive/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+Rplots.pdf
+*.Rout
+*.log
+*~
+.Rproj.user
+.httr-oauth
+.quarto
