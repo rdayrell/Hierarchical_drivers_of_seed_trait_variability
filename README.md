@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1422053841.svg)](https://doi.org/10.5281/zenodo.23418697)
+
 # Navigating through complexity: a roadmap to disentangle multi-level drivers of intraspecific seed trait variability and prioritise research efforts
 
 Roberta L. C. Dayrell, Efisio Mattana, Pablo Gómez Barreiro, Richard Buggs, Michael D. Charters, Udayangani Liu, Michael Renton, Phoebe Swift, Ted Chapman and Charlotte E. Seal.
